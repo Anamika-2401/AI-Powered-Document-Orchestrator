@@ -1,0 +1,7 @@
+streamlit
+google-genai
+requests
+pdfplumber
+PyMuPDF
+pydantic
+PyPDF2
